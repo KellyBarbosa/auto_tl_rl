@@ -1,0 +1,46 @@
+Instância: ry48p.1 
+
+--------------------------------------------------
+
+Já existia a matriz? Não
+
+--------------------------------------------------
+
+Época: 1 - Menor distância da época: 18397
+
+Época: 2 - Menor distância da época: 18680
+
+Época: 3 - Menor distância da época: 17922
+
+Época: 4 - Menor distância da época: 18604
+
+Época: 5 - Menor distância da época: 18510
+
+Época: 6 - Menor distância da época: 18456
+
+Época: 7 - Menor distância da época: 18946
+
+Época: 8 - Menor distância da época: 18822
+
+Época: 9 - Menor distância da época: 18272
+
+Época: 10 - Menor distância da época: 18819
+
+--------------------------------------------------
+
+Distância mínima:  17922 
+
+Época com a menor distância: 3 
+
+Episódio da 3° época com a menor distância: 706
+
+Tempo (em s) até atingir a menor distância: 730.724589586258 
+
+Tempo (em min) até atingir a menor distância: 12.1787440578143 
+
+--------------------------------------------------
+
+Tempo de execução em segundos: 1009.51333808899 
+
+Tempo de execução em minutos: 16.8252223014832 
+

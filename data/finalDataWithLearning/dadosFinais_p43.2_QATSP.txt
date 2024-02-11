@@ -1,0 +1,46 @@
+Instância: p43.2 
+
+--------------------------------------------------
+
+Já existia a matriz? Sim
+
+--------------------------------------------------
+
+Época: 1 - Menor distância da época: 29535
+
+Época: 2 - Menor distância da época: 29295
+
+Época: 3 - Menor distância da época: 29330
+
+Época: 4 - Menor distância da época: 29505
+
+Época: 5 - Menor distância da época: 29455
+
+Época: 6 - Menor distância da época: 29275
+
+Época: 7 - Menor distância da época: 29170
+
+Época: 8 - Menor distância da época: 29365
+
+Época: 9 - Menor distância da época: 29440
+
+Época: 10 - Menor distância da época: 29390
+
+--------------------------------------------------
+
+Distância mínima:  29170 
+
+Época com a menor distância: 7 
+
+Episódio da 7° época com a menor distância: 126
+
+Tempo (em s) até atingir a menor distância: 425.589647769928 
+
+Tempo (em min) até atingir a menor distância: 7.09316209554672 
+
+--------------------------------------------------
+
+Tempo de execução em segundos: 680.812603712082 
+
+Tempo de execução em minutos: 11.3468767285347 
+

@@ -1,0 +1,46 @@
+Instância: br17.12 
+
+--------------------------------------------------
+
+Já existia a matriz? Sim
+
+--------------------------------------------------
+
+Época: 1 - Menor distância da época: 60
+
+Época: 2 - Menor distância da época: 57
+
+Época: 3 - Menor distância da época: 57
+
+Época: 4 - Menor distância da época: 57
+
+Época: 5 - Menor distância da época: 60
+
+Época: 6 - Menor distância da época: 57
+
+Época: 7 - Menor distância da época: 57
+
+Época: 8 - Menor distância da época: 57
+
+Época: 9 - Menor distância da época: 57
+
+Época: 10 - Menor distância da época: 57
+
+--------------------------------------------------
+
+Distância mínima:  57 
+
+Época com a menor distância: 2 
+
+Episódio da 2° época com a menor distância: 96
+
+Tempo (em s) até atingir a menor distância: 13.7160036563873 
+
+Tempo (em min) até atingir a menor distância: 0.228601006666819 
+
+--------------------------------------------------
+
+Tempo de execução em segundos: 126.473837614059 
+
+Tempo de execução em minutos: 2.10789729356766 
+

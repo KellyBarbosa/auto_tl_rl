@@ -1,0 +1,46 @@
+Instância: ft70.1 
+
+--------------------------------------------------
+
+Já existia a matriz? Não
+
+--------------------------------------------------
+
+Época: 1 - Menor distância da época: 43888
+
+Época: 2 - Menor distância da época: 44225
+
+Época: 3 - Menor distância da época: 42707
+
+Época: 4 - Menor distância da época: 43533
+
+Época: 5 - Menor distância da época: 43849
+
+Época: 6 - Menor distância da época: 44198
+
+Época: 7 - Menor distância da época: 43884
+
+Época: 8 - Menor distância da época: 43720
+
+Época: 9 - Menor distância da época: 44023
+
+Época: 10 - Menor distância da época: 44209
+
+--------------------------------------------------
+
+Distância mínima:  42707 
+
+Época com a menor distância: 3 
+
+Episódio da 3° época com a menor distância: 453
+
+Tempo (em s) até atingir a menor distância: 1241.23309063911 
+
+Tempo (em min) até atingir a menor distância: 20.6872190594673 
+
+--------------------------------------------------
+
+Tempo de execução em segundos: 1909.22935128212 
+
+Tempo de execução em minutos: 31.8204891880353 
+

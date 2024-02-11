@@ -1,0 +1,46 @@
+Instância: ft70.2 
+
+--------------------------------------------------
+
+Já existia a matriz? Sim
+
+--------------------------------------------------
+
+Época: 1 - Menor distância da época: 44815
+
+Época: 2 - Menor distância da época: 44931
+
+Época: 3 - Menor distância da época: 44868
+
+Época: 4 - Menor distância da época: 44986
+
+Época: 5 - Menor distância da época: 44499
+
+Época: 6 - Menor distância da época: 45317
+
+Época: 7 - Menor distância da época: 45312
+
+Época: 8 - Menor distância da época: 44937
+
+Época: 9 - Menor distância da época: 44727
+
+Época: 10 - Menor distância da época: 44828
+
+--------------------------------------------------
+
+Distância mínima:  44499 
+
+Época com a menor distância: 5 
+
+Episódio da 5° época com a menor distância: 187
+
+Tempo (em s) até atingir a menor distância: 590.237125873566 
+
+Tempo (em min) até atingir a menor distância: 9.83728634913762 
+
+--------------------------------------------------
+
+Tempo de execução em segundos: 1323.1547088623 
+
+Tempo de execução em minutos: 22.0525784810384 
+

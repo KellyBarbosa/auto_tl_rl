@@ -1,0 +1,46 @@
+Instância: p43.4 
+
+--------------------------------------------------
+
+Já existia a matriz? Sim
+
+--------------------------------------------------
+
+Época: 1 - Menor distância da época: 84450
+
+Época: 2 - Menor distância da época: 84030
+
+Época: 3 - Menor distância da época: 84105
+
+Época: 4 - Menor distância da época: 84345
+
+Época: 5 - Menor distância da época: 83985
+
+Época: 6 - Menor distância da época: 84210
+
+Época: 7 - Menor distância da época: 84245
+
+Época: 8 - Menor distância da época: 84015
+
+Época: 9 - Menor distância da época: 84265
+
+Época: 10 - Menor distância da época: 84170
+
+--------------------------------------------------
+
+Distância mínima:  83985 
+
+Época com a menor distância: 5 
+
+Episódio da 5° época com a menor distância: 206
+
+Tempo (em s) até atingir a menor distância: 653.408779621124 
+
+Tempo (em min) até atingir a menor distância: 10.8901471932729 
+
+--------------------------------------------------
+
+Tempo de execução em segundos: 1580.60091233253 
+
+Tempo de execução em minutos: 26.3433485388756 
+

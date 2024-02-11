@@ -1,0 +1,46 @@
+Instância: br17.10 
+
+--------------------------------------------------
+
+Já existia a matriz? Sim
+
+--------------------------------------------------
+
+Época: 1 - Menor distância da época: 60
+
+Época: 2 - Menor distância da época: 60
+
+Época: 3 - Menor distância da época: 60
+
+Época: 4 - Menor distância da época: 60
+
+Época: 5 - Menor distância da época: 57
+
+Época: 6 - Menor distância da época: 60
+
+Época: 7 - Menor distância da época: 57
+
+Época: 8 - Menor distância da época: 60
+
+Época: 9 - Menor distância da época: 57
+
+Época: 10 - Menor distância da época: 57
+
+--------------------------------------------------
+
+Distância mínima:  57 
+
+Época com a menor distância: 5 
+
+Episódio da 5° época com a menor distância: 454
+
+Tempo (em s) até atingir a menor distância: 38.0975749492645 
+
+Tempo (em min) até atingir a menor distância: 0.634960734844208 
+
+--------------------------------------------------
+
+Tempo de execução em segundos: 84.1319842338562 
+
+Tempo de execução em minutos: 1.40219973723094 
+

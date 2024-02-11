@@ -1,0 +1,46 @@
+Instância: ft53.2 
+
+--------------------------------------------------
+
+Já existia a matriz? Sim
+
+--------------------------------------------------
+
+Época: 1 - Menor distância da época: 10619
+
+Época: 2 - Menor distância da época: 9722
+
+Época: 3 - Menor distância da época: 9763
+
+Época: 4 - Menor distância da época: 9636
+
+Época: 5 - Menor distância da época: 9701
+
+Época: 6 - Menor distância da época: 9588
+
+Época: 7 - Menor distância da época: 9748
+
+Época: 8 - Menor distância da época: 9796
+
+Época: 9 - Menor distância da época: 9773
+
+Época: 10 - Menor distância da época: 9711
+
+--------------------------------------------------
+
+Distância mínima:  9588 
+
+Época com a menor distância: 6 
+
+Episódio da 6° época com a menor distância: 427
+
+Tempo (em s) até atingir a menor distância: 317.562063932419 
+
+Tempo (em min) até atingir a menor distância: 5.29270198742549 
+
+--------------------------------------------------
+
+Tempo de execução em segundos: 595.177116632462 
+
+Tempo de execução em minutos: 9.91961861054103 
+

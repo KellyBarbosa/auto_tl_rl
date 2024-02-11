@@ -1,0 +1,46 @@
+Instância: ft53.1 
+
+--------------------------------------------------
+
+Já existia a matriz? Não
+
+--------------------------------------------------
+
+Época: 1 - Menor distância da época: 9235
+
+Época: 2 - Menor distância da época: 9150
+
+Época: 3 - Menor distância da época: 9077
+
+Época: 4 - Menor distância da época: 9267
+
+Época: 5 - Menor distância da época: 9115
+
+Época: 6 - Menor distância da época: 9428
+
+Época: 7 - Menor distância da época: 9123
+
+Época: 8 - Menor distância da época: 9145
+
+Época: 9 - Menor distância da época: 9056
+
+Época: 10 - Menor distância da época: 9077
+
+--------------------------------------------------
+
+Distância mínima:  9056 
+
+Época com a menor distância: 9 
+
+Episódio da 9° época com a menor distância: 375
+
+Tempo (em s) até atingir a menor distância: 1009.81864595413 
+
+Tempo (em min) até atingir a menor distância: 16.8303118348122 
+
+--------------------------------------------------
+
+Tempo de execução em segundos: 1074.65036225319 
+
+Tempo de execução em minutos: 17.9108393708865 
+

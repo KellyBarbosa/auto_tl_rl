@@ -1,0 +1,46 @@
+Instância: ft53.4 
+
+--------------------------------------------------
+
+Já existia a matriz? Sim
+
+--------------------------------------------------
+
+Época: 1 - Menor distância da época: 17321
+
+Época: 2 - Menor distância da época: 16935
+
+Época: 3 - Menor distância da época: 17411
+
+Época: 4 - Menor distância da época: 17414
+
+Época: 5 - Menor distância da época: 17207
+
+Época: 6 - Menor distância da época: 17500
+
+Época: 7 - Menor distância da época: 16937
+
+Época: 8 - Menor distância da época: 17486
+
+Época: 9 - Menor distância da época: 17498
+
+Época: 10 - Menor distância da época: 17131
+
+--------------------------------------------------
+
+Distância mínima:  16935 
+
+Época com a menor distância: 2 
+
+Episódio da 2° época com a menor distância: 284
+
+Tempo (em s) até atingir a menor distância: 191.459775447845 
+
+Tempo (em min) até atingir a menor distância: 3.19099780321121 
+
+--------------------------------------------------
+
+Tempo de execução em segundos: 1486.14706277847 
+
+Tempo de execução em minutos: 24.7691177129745 
+
