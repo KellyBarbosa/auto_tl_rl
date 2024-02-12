@@ -26,6 +26,10 @@ Thus, Auto_TL_RL encompasses the following concepts:
 
 ### Auto_TL_RL Workflow
 
+<p align="center">
+<img src="https://github.com/KellyBarbosa/auto_tl_rl/assets/40704890/f4a70c54-8172-4077-b361-0587c81d87f4" />  
+</p>
+
 ### Technical Description of Auto_TL_RL
 
 The algorithm operates based on the files `Auto_TL_RL.R` and `control.txt`. Additionally, the data for conducting experiments is located in the `data` folder.
