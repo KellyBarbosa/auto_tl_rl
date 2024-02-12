@@ -10,7 +10,7 @@
 >
 > [Currículo Lattes](http://lattes.cnpq.br/2003401420560517) | [E-mail](andre.ottoni@ufrb.edu.br) | [ORCID](https://orcid.org/0000-0003-2136-9870)
 
-Algorithm described in article "Transfer Reinforcement Learning for Combinatorial Optimization Problems", submitted to MDPI.
+Algorithm described in article "Transfer Reinforcement Learning for Combinatorial Optimization Problems", submitted to Algorithms/MDPI.
 
 ## About Auto_TL_RL
 
