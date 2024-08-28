@@ -4,13 +4,32 @@
 
 > Gleice Kelly Barbosa Souza <br> _Robotics and Artificial Intelligence (RAI)_ <br> _Universidade Federal do Recôncavo da Bahia (UFRB)_
 >
-> [Currículo Lattes](http://lattes.cnpq.br/7270522970235184) | [E-mail](kelly.189@hotmail.com) | [ORCID](https://orcid.org/0009-0001-3679-3298)
+> [Currículo Lattes](http://lattes.cnpq.br/7270522970235184) | [E-mail](mailto:kelly.189@hotmail.com) | [ORCID](https://orcid.org/0009-0001-3679-3298)
 
-> André Luiz Carvalho Ottoni <br> _Robotics and Artificial Intelligence (RAI)_ <br> _Universidade Federal do Recôncavo da Bahia (UFRB)_
+> André Luiz Carvalho Ottoni <br> _Robotics and Artificial Intelligence (RAI)_ <br> _Universidade Federal de Ouro Preto (UFOP)_
 >
-> [Currículo Lattes](http://lattes.cnpq.br/2003401420560517) | [E-mail](andre.ottoni@ufrb.edu.br) | [ORCID](https://orcid.org/0000-0003-2136-9870)
+> [Currículo Lattes](http://lattes.cnpq.br/2003401420560517) | [E-mail](mailto:andre.ottoni@ufop.edu.br) | [ORCID](https://orcid.org/0000-0003-2136-9870)
 
-Algorithm described in article "Transfer Reinforcement Learning for Combinatorial Optimization Problems", submitted to MDPI.
+## Published article
+
+The article on Auto_TL_RL (Automated Transfer Reinforcement Learning Algorithm) was published in MDPI's Algorithms magazine and can be accessed via [this link](https://www.mdpi.com/1999-4893/17/2/87).
+
+If Auto_TL_RL is useful for your research and you wish to cite it, use the following reference in BibTeX format:
+
+```
+@Article{auto_tl_rl_2024,
+AUTHOR = {Souza, Gleice Kelly Barbosa and Santos, Samara Oliveira Silva and Ottoni, André Luiz Carvalho and Oliveira, Marcos Santos and Oliveira, Daniela Carine Ramires and Nepomuceno, Erivelton Geraldo},
+TITLE = {Transfer Reinforcement Learning for Combinatorial Optimization Problems},
+JOURNAL = {Algorithms},
+VOLUME = {17},
+YEAR = {2024},
+NUMBER = {2},
+ARTICLE-NUMBER = {87},
+URL = {https://www.mdpi.com/1999-4893/17/2/87},
+ISSN = {1999-4893},
+DOI = {10.3390/a17020087}
+}
+```
 
 ## About Auto_TL_RL
 
